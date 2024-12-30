@@ -2,7 +2,7 @@
 https://entnt-assignment-peach.vercel.app/
 
 
-Application Functionality
+# Application Functionality
 
 
 Admin Module: Allows admins to set up companies. Admins can configure communication parameters such as frequency and method. Admins have tools for managing data related to companies and communication tasks.
@@ -17,7 +17,9 @@ Dark Mode Support: Enhanced user interface for dark mode compatibility. Ensures 
 
 Filters communications based on time (past vs. upcoming). Sorts communications in descending order for past and ascending for upcoming tasks.
 
-Known Limitations:
+# Known Limitations:
+
+
 Notification Accuracy: The notification system relies on computed properties from data. If there are data inaccuracies (e.g., missing periodicity or incorrect communication logs), the notifications might not reflect the correct status.
 
 Limited Admin/User Separation: Current implementation does not differentiate between admin and user modes at the authentication level. Both admin and user functionalities are accessible within the same UI, separated by tabs or sections. Future implementations might require proper role-based access control.
