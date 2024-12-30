@@ -3,6 +3,8 @@ https://entnt-assignment-peach.vercel.app/
 
 
 Application Functionality
+
+
 Admin Module: Allows admins to set up companies. Admins can configure communication parameters such as frequency and method. Admins have tools for managing data related to companies and communication tasks.
 
 User Module: Users can visualize, manage, and log communication tasks. Provides two views: Past Communications: Displays all completed communications sorted by date. Upcoming Communications: Lists all planned communications that are scheduled for future dates.
